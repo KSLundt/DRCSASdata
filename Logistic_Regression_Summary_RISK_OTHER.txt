@@ -1,0 +1,148 @@
+
+Call:
+glm(formula = formula, family = binomial(), data = data)
+
+Coefficients:
+                                                       Estimate
+(Intercept)                                          -2.251e+01
+GENDERMale                                           -1.886e+01
+GENDERNon-binary                                      2.481e+01
+GENDEROther                                           2.014e+01
+GENDERPrefer not to say                              -3.210e+00
+GENDERTrans female                                   -1.663e+00
+GENDERTrans male                                      1.862e+00
+SU_AGE_IN_YEARS                                       1.297e-02
+SU_ETHNICITYBlack/ African/ Caribbean/ Black British  6.926e+01
+SU_ETHNICITYMixed/ Multiple Ethnic Groups            -1.803e+01
+SU_ETHNICITYOther Ethnic Group                       -8.743e-01
+SU_ETHNICITYPrefer not to say                        -1.657e+01
+SU_ETHNICITYUnknown                                  -1.653e+01
+SU_ETHNICITYUnobtainable                              5.479e+01
+SU_ETHNICITYWhite British                             1.183e+00
+SU_ETHNICITYWhite European                           -1.584e+01
+SU_LOCATIONExeter                                    -4.714e+01
+SU_LOCATIONMid Devon                                 -6.713e+01
+SU_LOCATIONNorth Devon                                7.057e-01
+SU_LOCATIONSouth Hams                                -1.818e+01
+SU_LOCATIONTeignbridge                               -1.861e+01
+SU_LOCATIONTorbay                                    -1.812e-01
+SU_LOCATIONTorridge                                  -6.742e+01
+SU_LOCATIONWest Devon                                 1.806e+00
+SEXUALITYGay/Lesbian                                 -1.830e+01
+SEXUALITYHeterosexual                                -1.104e+00
+SEXUALITYOther                                       -2.080e+01
+SEXUALITYPrefer not to say                           -1.879e+01
+SEXUALITYUnknown                                     -1.959e+01
+RELIGIONBuddhist                                      4.738e-01
+RELIGIONCatholic                                      2.119e+01
+RELIGIONChristian                                     5.137e-02
+RELIGIONJewish                                        2.116e+01
+RELIGIONNo religion                                   2.002e+01
+RELIGIONPrefer not to say                             3.450e+00
+RELIGIONUnknown                                       2.008e+01
+RELIGIONUnobtainable                                  1.573e+00
+DISABILITYMental Health                              -2.106e+01
+DISABILITYNone                                       -3.932e+00
+DISABILITYPhysical disability                        -2.001e+00
+DISABILITYPrefer not to say                           4.775e+01
+DISABILITYSensory disability                         -2.309e+01
+DISABILITYUnknown                                    -1.559e+01
+                                                     Std. Error z value
+(Intercept)                                           5.264e+04   0.000
+GENDERMale                                            1.370e+04  -0.001
+GENDERNon-binary                                      3.360e+04   0.001
+GENDEROther                                           8.054e+04   0.000
+GENDERPrefer not to say                               1.318e+05   0.000
+GENDERTrans female                                    1.316e+05   0.000
+GENDERTrans male                                      6.269e+04   0.000
+SU_AGE_IN_YEARS                                       5.298e-02   0.245
+SU_ETHNICITYBlack/ African/ Caribbean/ Black British  1.068e+05   0.001
+SU_ETHNICITYMixed/ Multiple Ethnic Groups             4.954e+04   0.000
+SU_ETHNICITYOther Ethnic Group                        6.449e+04   0.000
+SU_ETHNICITYPrefer not to say                         5.439e+04   0.000
+SU_ETHNICITYUnknown                                   4.883e+04   0.000
+SU_ETHNICITYUnobtainable                              4.538e+04   0.001
+SU_ETHNICITYWhite British                             4.425e+04   0.000
+SU_ETHNICITYWhite European                            4.717e+04   0.000
+SU_LOCATIONExeter                                     7.748e+03  -0.006
+SU_LOCATIONMid Devon                                  1.322e+04  -0.005
+SU_LOCATIONNorth Devon                                1.795e+00   0.393
+SU_LOCATIONSouth Hams                                 1.515e+04  -0.001
+SU_LOCATIONTeignbridge                                1.246e+04  -0.001
+SU_LOCATIONTorbay                                     1.747e+00  -0.104
+SU_LOCATIONTorridge                                   1.823e+04  -0.004
+SU_LOCATIONWest Devon                                 1.676e+00   1.077
+SEXUALITYGay/Lesbian                                  1.428e+04  -0.001
+SEXUALITYHeterosexual                                 1.467e+00  -0.753
+SEXUALITYOther                                        3.360e+04  -0.001
+SEXUALITYPrefer not to say                            1.479e+04  -0.001
+SEXUALITYUnknown                                      7.974e+03  -0.002
+RELIGIONBuddhist                                      3.402e+04   0.000
+RELIGIONCatholic                                      2.851e+04   0.001
+RELIGIONChristian                                     3.017e+04   0.000
+RELIGIONJewish                                        8.411e+04   0.000
+RELIGIONNo religion                                   2.851e+04   0.001
+RELIGIONPrefer not to say                             3.214e+04   0.000
+RELIGIONUnknown                                       2.851e+04   0.001
+RELIGIONUnobtainable                                  9.033e+04   0.000
+DISABILITYMental Health                               1.261e+04  -0.002
+DISABILITYNone                                        1.468e+00  -2.679
+DISABILITYPhysical disability                         1.912e+00  -1.046
+DISABILITYPrefer not to say                           7.748e+03   0.006
+DISABILITYSensory disability                          4.689e+04   0.000
+DISABILITYUnknown                                     4.220e+03  -0.004
+                                                     Pr(>|z|)   
+(Intercept)                                           0.99966   
+GENDERMale                                            0.99890   
+GENDERNon-binary                                      0.99941   
+GENDEROther                                           0.99980   
+GENDERPrefer not to say                               0.99998   
+GENDERTrans female                                    0.99999   
+GENDERTrans male                                      0.99998   
+SU_AGE_IN_YEARS                                       0.80666   
+SU_ETHNICITYBlack/ African/ Caribbean/ Black British  0.99948   
+SU_ETHNICITYMixed/ Multiple Ethnic Groups             0.99971   
+SU_ETHNICITYOther Ethnic Group                        0.99999   
+SU_ETHNICITYPrefer not to say                         0.99976   
+SU_ETHNICITYUnknown                                   0.99973   
+SU_ETHNICITYUnobtainable                              0.99904   
+SU_ETHNICITYWhite British                             0.99998   
+SU_ETHNICITYWhite European                            0.99973   
+SU_LOCATIONExeter                                     0.99515   
+SU_LOCATIONMid Devon                                  0.99595   
+SU_LOCATIONNorth Devon                                0.69417   
+SU_LOCATIONSouth Hams                                 0.99904   
+SU_LOCATIONTeignbridge                                0.99881   
+SU_LOCATIONTorbay                                     0.91737   
+SU_LOCATIONTorridge                                   0.99705   
+SU_LOCATIONWest Devon                                 0.28140   
+SEXUALITYGay/Lesbian                                  0.99898   
+SEXUALITYHeterosexual                                 0.45169   
+SEXUALITYOther                                        0.99951   
+SEXUALITYPrefer not to say                            0.99899   
+SEXUALITYUnknown                                      0.99804   
+RELIGIONBuddhist                                      0.99999   
+RELIGIONCatholic                                      0.99941   
+RELIGIONChristian                                     1.00000   
+RELIGIONJewish                                        0.99980   
+RELIGIONNo religion                                   0.99944   
+RELIGIONPrefer not to say                             0.99991   
+RELIGIONUnknown                                       0.99944   
+RELIGIONUnobtainable                                  0.99999   
+DISABILITYMental Health                               0.99867   
+DISABILITYNone                                        0.00738 **
+DISABILITYPhysical disability                         0.29545   
+DISABILITYPrefer not to say                           0.99508   
+DISABILITYSensory disability                          0.99961   
+DISABILITYUnknown                                     0.99705   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 80.933  on 837  degrees of freedom
+Residual deviance: 33.095  on 795  degrees of freedom
+AIC: 119.1
+
+Number of Fisher Scoring iterations: 23
+
